@@ -1,6 +1,6 @@
 # Práctica 10. Sistemas y Tecnologías Web
 
-## Plugin: gitbook-start-iaas-ull-es-josue-nayra
+## Plugin: gitbook-start-iaas-ull-es-josue-nayra @1.3.4
 
 
 Este plugin provee al paquete **gitbook-start-josue-nayra** del mecanismo necesario para realizar el despliegue en los servidores de **iaas-ull-es** de la ULL.
@@ -46,9 +46,8 @@ $ npm install
 4- Instalar el plugin requerido como dependendecia con la opción --save, como por ejemplo: **gitbook-start-iaas-ull-es-josue-nayra** para el despliegue en iaas.
 
 ```bash
-$ npm install --save gitbook-start-iaas-ull-es-josue-nayra
+$ npm install --save gitbook-start-iaas-ull-es-josue-nayra@1.3.4
 ```
-
 5- Para la actualización de nuestro repositorio podemos ejecutar una de las tareas descritas en el gulpfile: **gulp push --mensaje <mensaje commit>**.
 
 
